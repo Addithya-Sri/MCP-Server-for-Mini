@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+      "learning-server": {
+        "command": "uv",
+        "args": [
+          "--directory",
+          "C:\\Users\\Adithya\\mcp-learning-server",
+          "run",
+          "server.py"
+        ]
+      }
+    }
+  }
